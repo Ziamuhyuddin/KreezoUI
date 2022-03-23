@@ -1,0 +1,9 @@
+
+.sideBar-canvas-main.offcanvas-end{
+    width: 95% !important;
+    overflow-y: auto;
+  }
+.sideBar-small-canvas-main.offcanvas-end{
+    width: 60% !important;
+    overflow-y: auto;
+  }
